@@ -1,6 +1,4 @@
 # Calculadora
  Primeira calculadora em 
- -HTML
- -CSS (Bootstrap)
- -JS
+ HTML CSS (Bootstrap) JS
  
