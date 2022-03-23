@@ -1,2 +1,2 @@
 # Calculadora
- Primeira calculadora em HTML e JS
+ Primeira calculadora em HTML CSS e JS
